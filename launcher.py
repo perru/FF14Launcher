@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # FFXIV ARR Python Launcher - Python 2
-# Author: Valentin PERRUSSEL
+# Author: Jordan Henderson
+# Fix for Python 2.7.9: Valentin PERRUSSEL
 # This is a fairly quick and nasty implementation of a functional launcher for FFXIV.
 # TODO: ffxivupdate support.
 
